@@ -2,6 +2,7 @@
 - 👀 I’m interested in Full stack Web development,front-end & Back-end.
 - 🌱 I’m currently learning Full STACK WEB DVELOPMENT.
 - 💞️ I’m looking to collaborate on MERN STACK, React.js,Node.js.
+- ✨ I love exploring nature ,Dancing and shaping my innovative ideas into reality.
 - 📫 How to reach me on mail priyankawadhare1006@gmail.com
   
 
