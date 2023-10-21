@@ -62,11 +62,6 @@
 
 </td></tr></table>  
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=somesh-joshi&theme=github)
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=somesh-joshi&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=somesh-joshi&show_icons=true&theme=radical)
-
 
 
 
