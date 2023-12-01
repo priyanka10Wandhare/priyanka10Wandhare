@@ -4,7 +4,7 @@
 - 👀 I’m interested in Full stack Web development,front-end & Back-end,AI development.
 - 💞️ I’m looking to collaborate on MERN STACK, Medical website development, AI security based projects.
 - ✨ I love exploring nature ,Dancing and shaping my innovative ideas into reality.
-- 💬 Ask me about ... JavaScript, Nodejs, Reactjs, Nextjs, RESTAPIs, MongoDB,etc.
+- 💬 Ask me about ... JavaScript, Nodejs, Reactjs, Nextjs, RESTAPIs, MongoDB,AI security,Esurvillence and CMS etc.
 - 📫 How to reach me: ... <a href="mailto:priyankawandhare1006@gmail.com">Mail me</a>
 - 📃 My Portfolio and Resume ... <a href="https://drive.google.com/file/d/1BHRKntgoLebEnp7cAlmFryTrDhh-3Hb9/view/profile/">Take a Look</a>
   
