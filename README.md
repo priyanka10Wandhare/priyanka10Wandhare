@@ -1,12 +1,8 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
-</div>  
 <h1>I am Priyanka Wandhare👋🏻👋🏻👋🏻</h1>
 <h3>About Me</h3>
 
-- 👀 I’m interested in Full stack Web development,front-end & Back-end.
-- 🌱 I’m currently learning Full STACK WEB DVELOPMENT.
-- 💞️ I’m looking to collaborate on MERN STACK, React.js,Node.js based projects.
+- 👀 I’m interested in Full stack Web development,front-end & Back-end,AI development.
+- 💞️ I’m looking to collaborate on MERN STACK, Medical website development, AI security based projects.
 - ✨ I love exploring nature ,Dancing and shaping my innovative ideas into reality.
 - 💬 Ask me about ... JavaScript, Nodejs, Reactjs, Nextjs, RESTAPIs, MongoDB,etc.
 - 📫 How to reach me: ... <a href="mailto:priyankawandhare1006@gmail.com">Mail me</a>
@@ -26,7 +22,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="Python" height="50" />  
+
 </div>
 
 </td><td valign="top" width="33%">
