@@ -1,5 +1,6 @@
-<h1>Hii !</h1>
-<h1>I am Priyanka Wandhare👋🏻👋🏻👋🏻</h1>
+
+<h1> Hii ! <br>
+  I am Priyanka Wandhare👋🏻👋🏻👋🏻</h1>
 <h3>About Me</h3>
 
 - 👀 I’m interested in Full stack Web development,front-end & Back-end,AI development.
