@@ -1,12 +1,13 @@
 
-<h1> Hii ! <br>
-  I am Priyanka Wandhare👋🏻👋🏻👋🏻</h1>
+<h1> Hii! <br>
+  I am Priyanka Wandhare 
+</h1>
 <h3>About Me</h3>
 
-- 👀 I’m interested in full-stack web development, front-end & Back-end, and AI development.
-- 💞️ I want to collaborate on MERN STACK, Medical website development, and AI security-based projects.
+- 👀 I’m interested in Full Stack web development, front-end & Back-end, and AI Model development.
+- 💞️ I want to collaborate on MERN STACK, Medical website development, and AI based projects.
 - ✨ I love exploring nature, Dancing and shaping my innovative ideas into reality.
-- 💬 Ask me about ... JavaScript, Nodejs, Reactjs, Nextjs, RESTAPIs, MongoDB, AI security, Esurvillence and CMS, Computer vision etc.
+- 💬 Ask me about ... Python, JavaScript, Nodejs, Reactjs,REST Api, MongoDB, AI security,Generative Ai, Computer vision etc.
 - 📫 How to reach me: ... <a href="mailto:priyankawandhare1006@gmail.com">Mail me</a>
 - 📃 My Resume ... <a href="https://drive.google.com/drive/u/0/my-drive">Take a Look</a>
   
@@ -17,11 +18,13 @@
 
 ### Frontend  
 <div align="center">  
-<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React.Js" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwind-css-original-wordmark.svg" alt="Tailwind CSS" height="50" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />     
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-original.svg" alt="Figma Design" height="50" /> 
+
  
 
 </div>
