@@ -9,7 +9,7 @@
 - ✨ I love exploring nature, Dancing and shaping my innovative ideas into reality.
 - 💬 Ask me about ... Python, JavaScript, Nodejs, Reactjs,REST Api, MongoDB, AI security,Generative Ai, Computer vision etc.
 - 📫 How to reach me: ... <a href="mailto:priyankawandhare1006@gmail.com">Mail me</a>
-- 📃 My Resume ... <a href="https://drive.google.com/drive/u/0/my-drive">Take a Look</a>
+- 📃 My Resume ... <a href="https://drive.google.com/file/d/1_4AA8TM3hPhnnbaqiwotEo32uiLyUyev/view?usp=drive_link">Take a Look</a>
   
 
 ## My Skill Set  
