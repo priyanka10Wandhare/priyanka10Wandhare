@@ -31,13 +31,10 @@
 
 ### Backend  
 <div align="center">  
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />    
-
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -45,11 +42,12 @@
 
 some other technologies :
 <div align="center">  
-<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/agile-methodologies-original-wordmark.svg" alt="Agile methodology" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/artificialintelligence-original-wordmark.svg" alt="Artificial intelligence" height="50" />--> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/agile-methodologies-original-wordmark.svg" alt="Agile methodology" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/artificialintelligence-original-wordmark.svg" alt="Artificial intelligence" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/visual-studio-code-original-wordmark.svg" alt="VS Code" height="50" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-scm-icon.svg" alt="Github" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postman-original-wordmark.svg" alt="Postman" height="50" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-original.svg" alt="Figma Design" height="50" />  
