@@ -4,12 +4,12 @@
 </h1>
 <h3>About Me</h3>
 
-- 👀 I’m interested in Full Stack web development, front-end & Back-end,Wordpress website development and AI Model development.
-- 💞️ I want to collaborate on MERN STACK, Wordpress website development, Medical website development, and AI based projects.
-- ✨ I love exploring nature, Dancing and shaping my innovative ideas into reality.
-- 💬 Ask me about ... Python, JavaScript, Nodejs, Reactjs,REST Api, MongoDB, AI security,Generative Ai, Computer vision etc.
-- 📫 How to reach me: ... <a href="mailto:priyankawandhare1006@gmail.com">Mail me</a>
-- 📃 My Resume ... <a href="https://drive.google.com/file/d/1_4AA8TM3hPhnnbaqiwotEo32uiLyUyev/view?usp=sharing">Take a Look</a>
+- 👀 I’m interested in AI , AI agents , LLM , and Prompt Engineering .
+- 💞️ I want to collaborate on MERN STACK and AI-based projects.
+- ✨ I love exploring nature, dancing, and shaping my innovative ideas into reality.
+- 💬 Ask me about ... Python, LLM, Prompt Engineering, JavaScript, Nodejs, Reactjs, REST Api, MongoDB, AI security, Generative AI, Computer vision, etc.
+- 📫 How to reach me: ... <a href="mailto:priyankawandhare17@gmail.com">Mail me</a>
+- 📃 My Resume ... <a href=" ">Take a Look</a>
   
 
 ## My Skill Set  
